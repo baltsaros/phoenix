@@ -77,4 +77,15 @@ Students has access only to the index page, where they see either their Phoenix 
 * [Docs](https://htmx.org/docs/) on htmx
 
 ## Screenshots
-![alt text](https://github.com/baltsaros/fractol/blob/main/pics/1.jpeg)
+Main page with all active users during the current week:
+![Gaming](https://github.com/baltsaros/phoenix/blob/main/pics/gaming.jpeg)
+Admin view of the user page:
+![AdminView](https://github.com/baltsaros/phoenix/blob/main/pics/userPageAdminView.jpeg)
+User view of the user page:
+![UserView](https://github.com/baltsaros/phoenix/blob/main/pics/history.jpeg)
+User history:
+![History](https://github.com/baltsaros/phoenix/blob/main/pics/History.jpeg)
+Form example:
+![Form](https://github.com/baltsaros/phoenix/blob/main/pics/form.jpeg)
+Error message example:
+![Error message](https://github.com/baltsaros/phoenix/blob/main/pics/errorMsg.jpeg)
