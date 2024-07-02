@@ -10,6 +10,10 @@ This is a webapp for the Phoenix project. Its second version. We took only some 
 
 If you need more information about the Phoenix itself, you can find it [here](https://man.s19.be/view/pedago/phoenix/).
 
+## Tools
+* Frontend: HTML, CSS, jQuery, JavaScript
+* Backend: Django
+
 ## Team
 * Aleksandr Buzdin ([abuzdin](https://profile.intra.42.fr/users/abuzdin) / [medved](https://profile.intra.42.fr/users/medved)) - most of frontend, half of views, the first versions of models and condition checks, readme, migration method
 * Benjamin Perraudin ([bperraud](https://profile.intra.42.fr/users/bperraud) / [nymano](https://profile.intra.42.fr/users/nymano)) - refactoring, models and checks update and optimization, the other half of views, utils, forms, tasks, the first versions of html templates for forms, db population methods, some frontend (navbar!), git comparison
