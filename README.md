@@ -86,9 +86,9 @@ Main page with all active users during the current week:
 Admin view of the user page:
 ![AdminView](https://github.com/baltsaros/phoenix/blob/main/pics/userPageAdminView.jpeg)
 User view of the user page:
-![UserView](https://github.com/baltsaros/phoenix/blob/main/pics/history.jpeg)
+![UserView](https://github.com/baltsaros/phoenix/blob/main/pics/userPage.jpeg)
 User history:
-![History](https://github.com/baltsaros/phoenix/blob/main/pics/History.jpeg)
+![History](https://github.com/baltsaros/phoenix/blob/main/pics/history.jpeg)
 Form example:
 ![Form](https://github.com/baltsaros/phoenix/blob/main/pics/form.jpeg)
 Error message example:
